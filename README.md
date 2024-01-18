@@ -3,5 +3,5 @@ My first repository
 
 # **MY FAVORITE ANIME AND MOVIES**
 ## **1.Teasing Master Takagi_san**
-![Takagi-san]([https://github.com/JF141099/app-dev/assets/156996568/aaa470b0-2176-4803-9816-381251e5a0ae](https://resizing.flixster.com/NXF41NU2nOMSXshZpeq-sMAvZ_4=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16567620_b_v8_aa.jpg)https://resizing.flixster.com/NXF41NU2nOMSXshZpeq-sMAvZ_4=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16567620_b_v8_aa.jpg)
-
+![takagi-san](https://github.com/JF141099/app-dev/assets/156996568/ececf525-527e-482e-8d52-4e915b268812)
+> Middle school students Nishikata and Takagi sit next to each other in class. Takagi enjoys teasing Nishikata with embarrassing pranks and jokes. In response, Nishikata creates plans to get his revenge, but he fails when she identifies his weaknesses and capitalizes on them. In some rare instances where Takagi loses the challenge, Nishikata does not feel like he really won. The setting is based on the town of Tonoshō in the Kagawa Prefecture.
