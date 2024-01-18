@@ -3,4 +3,5 @@ My first repository
 
 # **MY FAVORITE ANIME AND MOVIES**
 ## **Teasing Master Takagi_san**
-![Takagi-san](https://en.wikipedia.org/wiki/Teasing_Master_Takagi-san.jpg)
+![Takagi-san](![image](https://github.com/JF141099/app-dev/assets/156996568/aaa470b0-2176-4803-9816-381251e5a0ae)
+
